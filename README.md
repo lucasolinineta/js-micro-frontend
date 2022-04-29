@@ -97,8 +97,9 @@ Contra: herramientas y setup mas complicados.
 
 ##### El producto puede correr a travez del container app
 
-> git clone git@github.com:lucasolinineta/js-micro-frontend.git
-> cd js-micro-frontend
+
+    > git clone git@github.com:lucasolinineta/js-micro-frontend.git
+    > cd js-micro-frontend
 
 #### Recordar que cada XAPP debe correr por si sola, pero el container requiere que las XAPP ya esten corriendo
 
